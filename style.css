@@ -1,0 +1,48 @@
+.en-tête {
+    color : white;
+    font-size: 3em;
+    text-align: center;
+    height : 100px;
+    box-sizing : border-box;
+    padding-top : 22px;
+    background-color : gray;
+
+}
+
+/* Flexbox */ 
+
+.flex-container{
+    display:-webkit-flex;
+    display:flex;
+    -webkit-justify-content:space-around;
+    justify-content:space-around;
+    -webkit-align-items:center;
+    align-items:center;
+    -webkit-align-content:center;
+    align-content:center;
+    }
+
+.flex-item1 {
+    width:100px;
+    height : 150px;
+}
+
+.flex-item2 {
+    width:100px;
+    height : 150px;
+}
+
+.flex-item3 {
+    width:100px;
+    height : 150px;
+}
+
+.flex-item4 {
+    width:100px;
+    height : 150px;
+}
+
+.flex-item5 {
+    width:100px;
+    height : 150px;
+}
