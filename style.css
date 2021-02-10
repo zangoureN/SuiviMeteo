@@ -2,7 +2,7 @@ header {
 	background: url('https://481xy61dp22v2uqbx85ez1tw-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/No-Branding-Header-Background-1-300x79.jpg');
 	text-align: center;
 	width: 100%;
-	height: 180px;
+	height: 160px;
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
@@ -40,11 +40,12 @@ h1 {
 
 .footer {
 	font-family: 'Lexend Mega', sans-serif;
-	font-size: 1.3em;
+	font-size: 1em;
 	background: #707070;
 	color: white;
-	margin: 12px 20px 0 10px;
-	padding-left: 25px;
+	margin: 17px 20px 0 20px;
+	padding-left: 5px;
+	padding-bottom : 0;
 	text-transform: capitalize;
 }
 
@@ -73,18 +74,18 @@ h1 {
 }
 
 .imageMeteo {
-	width: 220px;
+	width: 210px;
 }
 
 .nomVille {
-	font-size: 2em;
+	font-size: 1.8em;
 	font-family: 'Roboto', sans-serif;
 	padding-right: 20px;
 }
 
 .etatMeteo {
 	font-family: 'Hammersmith One', sans-serif;
-	font-size: 1.6em;
+	font-size: 1.5em;
 	text-align: center;
 }
 
